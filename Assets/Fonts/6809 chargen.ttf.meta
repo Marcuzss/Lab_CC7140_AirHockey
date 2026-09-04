@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 43ae7ee966cb4734c94b695782e4ea3b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  fontWeight: 400
+  enableFontHinting: 1
+  fontHintingLevel: 0
+  colorGlyphSupport: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
